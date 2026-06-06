@@ -497,6 +497,10 @@ h3 {
     box-shadow: 0 0 15px rgba(188, 19, 254, 0.2);
 }
 
+.solidus-theme .company-logo img {
+    filter: brightness(0) invert(1) drop-shadow(0 0 5px rgba(188, 19, 254, 0.8));
+}
+
 .company-title h3 {
     margin-bottom: 0.2rem;
     border-bottom: none;
